@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\bin\Debug\WarehouseModels.dll
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\bin\Debug\WarehouseModels.pdb
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.dll
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.pdb
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.csproj.CoreCompileInputs.cache
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\bin\Debug\WarehouseModels.dll
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\bin\Debug\WarehouseModels.pdb
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.csproj.AssemblyReference.cache
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.csproj.CoreCompileInputs.cache
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.dll
+C:\Users\liaoyueyue\Desktop\WarehouseManagementSystem\WarehouseModels\obj\Debug\WarehouseModels.pdb

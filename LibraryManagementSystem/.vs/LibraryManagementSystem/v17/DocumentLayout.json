@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\librarymanagementsystem\\librarymanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B777E74-568D-4C53-9F28-DA07F01A487C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:40:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:41:42.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:32:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:29:45.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:29:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:29:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:53:08.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:51:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:54:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:52:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:45:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:29:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:23:25.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:23:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:23:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:47:56.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:47:57.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:13:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:11:30.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:35:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:22:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:22:58.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:22:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:56:10.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagementSystem\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:55:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Admin.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Admin.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:51:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\BookCategory.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\BookCategory.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\BookCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:50:53.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

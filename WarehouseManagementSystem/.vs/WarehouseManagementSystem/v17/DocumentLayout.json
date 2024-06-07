@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\itemform\\updateitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\itemform\\updateitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|c:\\users\\liaoyueyue\\desktop\\warehousemanagementsystem\\warehousemanagementsystem\\forms\\itemform\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\itemform\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|c:\\users\\liaoyueyue\\desktop\\warehousemanagementsystem\\warehousemanagementsystem\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\warehouseform\\updatewarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\warehouseform\\updatewarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\warehouseform\\addwarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\warehouseform\\addwarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\warehouseform\\addwarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\warehouseform\\addwarehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\userform\\updateuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\userform\\updateuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\forms\\userform\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\forms\\userform\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D569CA20-35FE-4048-A659-B300570DC6B4}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5DBA2D-D27F-4A56-98CD-0AC1B754F66A}|WarehouseModels\\WarehouseModels.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousemodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5DBA2D-D27F-4A56-98CD-0AC1B754F66A}|WarehouseModels\\WarehouseModels.csproj|solutionrelative:warehousemodels\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WarehouseModels||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C0A8B2-34F2-458E-AA45-40C1F00E130D}|WarehouseDAL\\WarehouseDAL.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousedal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C0A8B2-34F2-458E-AA45-40C1F00E130D}|WarehouseDAL\\WarehouseDAL.csproj|solutionrelative:warehousedal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C0A8B2-34F2-458E-AA45-40C1F00E130D}|WarehouseDAL\\WarehouseDAL.csproj|C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\warehousedal\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C0A8B2-34F2-458E-AA45-40C1F00E130D}|WarehouseDAL\\WarehouseDAL.csproj|solutionrelative:warehousedal\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\ItemForm\\AddItemForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\ItemForm\\AddItemForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\ItemForm\\AddItemForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\ItemForm\\AddItemForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:28:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\ItemForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\ItemForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\ItemForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\ItemForm.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwFQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:16:20.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateWarehouseForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\UpdateWarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\WarehouseForm\\UpdateWarehouseForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\UpdateWarehouseForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\WarehouseForm\\UpdateWarehouseForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:16:07.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddWarehouseForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:15:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddWarehouseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\WarehouseForm\\AddWarehouseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:15:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\WarehouseForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\WarehouseForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\WarehouseForm.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:11:22.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WarehouseForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\WarehouseForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\WarehouseForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\WarehouseForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WarehouseManagementSystem\\WarehouseForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:11:20.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\UserForm\\UpdateUserForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\UserForm\\UpdateUserForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\UserForm\\UpdateUserForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\UserForm\\UpdateUserForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:01:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\UserForm\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\UserForm\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\UserForm\\AddUserForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\UserForm\\AddUserForm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:00:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\App.config",
+              "RelativeToolTip": "WarehouseManagementSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T04:53:38.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseModels\\Item.cs",
+              "RelativeDocumentMoniker": "WarehouseModels\\Item.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseModels\\Item.cs",
+              "RelativeToolTip": "WarehouseModels\\Item.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:53:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WarehouseModels",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseModels\\WarehouseModels.csproj",
+              "RelativeDocumentMoniker": "WarehouseModels\\WarehouseModels.csproj",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseModels\\WarehouseModels.csproj",
+              "RelativeToolTip": "WarehouseModels\\WarehouseModels.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T04:53:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseDAL\\UserService.cs",
+              "RelativeDocumentMoniker": "WarehouseDAL\\UserService.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseDAL\\UserService.cs",
+              "RelativeToolTip": "WarehouseDAL\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:35:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseDAL\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "WarehouseDAL\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseDAL\\WarehouseService.cs",
+              "RelativeToolTip": "WarehouseDAL\\WarehouseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:35:47.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\UserForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\UserForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\UserForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\UserForm.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAYwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:26:41.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\UserForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\UserForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\UserForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WarehouseManagementSystem\\UserForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:26:39.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\ItemForm\\UpdateItemForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Forms\\ItemForm\\UpdateItemForm.cs",
+              "ToolTip": "C:\\Users\\liaoyueyue\\Desktop\\WarehouseManagementSystem\\WarehouseManagementSystem\\Forms\\ItemForm\\UpdateItemForm.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Forms\\ItemForm\\UpdateItemForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:18:31.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

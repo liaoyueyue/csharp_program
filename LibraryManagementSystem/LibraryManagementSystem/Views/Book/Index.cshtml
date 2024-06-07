@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Book>
+
+@{
+    ViewData["Title"] = "图书列表";
+}
+
+<h1>图书列表</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">添加新图书</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayName("书名")
+            </th>
+            <th>
+                @Html.DisplayName("作者")
+            </th>
+            <th>
+                @Html.DisplayName("出版社")
+            </th>
+            <th>
+                @Html.DisplayName("标准书号")
+            </th>
+            <th>
+                @Html.DisplayName("价格")
+            </th>
+            <th>
+                @Html.DisplayName("出版时间")
+            </th>
+            <th>
+                @Html.DisplayName("分类")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Publisher)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ISBN)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublishDate.ToShortDateString())
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">编辑</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">删除</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
