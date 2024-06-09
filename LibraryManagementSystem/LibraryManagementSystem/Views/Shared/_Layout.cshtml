@@ -23,9 +23,6 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">主页面</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">账号</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="">图书管理</a>
                         </li>
                         <li class="nav-item">
@@ -34,6 +31,22 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">隐私</a>
                         </li>
+                    </ul>
+                    <ul class="navbar-nav ml-auto">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <form asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="form-inline">
+                                    <button type="submit" class="btn btn-link nav-link text-dark" style="cursor:pointer;">注销</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">登录</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

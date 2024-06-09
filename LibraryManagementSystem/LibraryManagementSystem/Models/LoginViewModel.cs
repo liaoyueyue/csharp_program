@@ -5,14 +5,14 @@ namespace LibraryManagementSystem.Models
     public class LoginViewModel
     {
         [Required]
-        public string Username { get; set; }
-
+        [Display(Name = "用户名")]
+        public string Username { get; set; } = null!;
         [Required]
+        [Display(Name = "密码")]
         [DataType(DataType.Password)]
-        public string Password { get; set; }
+        public string Password { get; set; } = null!;
 
-        [Display(Name = "Remember me?")]
-        public bool RememberMe { get; set; }
     }
+
 
 }

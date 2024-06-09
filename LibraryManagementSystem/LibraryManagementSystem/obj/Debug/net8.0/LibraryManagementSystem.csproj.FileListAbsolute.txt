@@ -126,3 +126,9 @@ D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\Lib
 D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
 D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
 D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MyUniversity\0_ProgrammingLearning\csharp_program\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

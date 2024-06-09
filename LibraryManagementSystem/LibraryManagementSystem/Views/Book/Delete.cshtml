@@ -1,4 +1,4 @@
-﻿@model Book
+﻿@model LibraryManagementSystem.Models.BookViewModel
 
 @{
     ViewData["Title"] = "删除图书";
@@ -6,63 +6,58 @@
 
 <h1>删除图书</h1>
 
-<h4>图书</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
-        <h3>您确定要删除此吗？</h3>
-        <dl class="row">
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Title)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Title)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Author)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Author)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Publisher)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Publisher)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.ISBN)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.ISBN)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Price)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Price)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.PublishDate)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.PublishDate.ToShortDateString())
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Category.Name)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Category.Name)
-            </dd>
-        </dl>
-        <form asp-action="Delete">
-            <input type="hidden" asp-for="Id" />
-            <input type="submit" value="删除" class="btn btn-danger" /> |
-            <a asp-action="Index" class="btn btn-secondary">取消</a>
-        </form>
-    </div>
-</div>
-
 <div>
-    <a asp-action="Index">返回图书列表</a>
+    <h4>你确定要删除这本书吗？</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            书名
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Title
+        </dd>
+        <dt class="col-sm-2">
+            作者
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Author
+        </dd>
+        <dt class="col-sm-2">
+            出版社
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Publisher
+        </dd>
+        <dt class="col-sm-2">
+            标准书号
+        </dt>
+        <dd class="col-sm-10">
+            @Model.ISBN
+        </dd>
+        <dt class="col-sm-2">
+            价格
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Price
+        </dd>
+        <dt class="col-sm-2">
+            出版时间
+        </dt>
+        <dd class="col-sm-10">
+            @Model.PublishDate
+        </dd>
+        <dt class="col-sm-2">
+            分类
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CategoryId
+        </dd>
+    </dl>
+
+    <form asp-action="DeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="删除" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">返回</a>
+    </form>
 </div>

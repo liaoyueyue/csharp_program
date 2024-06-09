@@ -1,7 +1,6 @@
 using LibraryManagementSystem.Data;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace LibraryManagementSystem
 {
@@ -15,14 +14,17 @@ namespace LibraryManagementSystem
             // 添加数据库上下文
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite("FileName=Data/App.db"));
             // 添加身份认证服务
-            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-                .AddCookie(options =>
-                {
-                    options.LoginPath = "/Account/Login";
-                    options.LogoutPath = "/Account/Logout";
-                    options.AccessDeniedPath = "/Account/AccessDenied";
-                });
-            // 添加控制器和视图
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+            services.Configure<IdentityOptions>(options =>
+            {
+                options.Password.RequiredLength = 6;
+                options.Password.RequiredUniqueChars = 3;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireDigit = false;
+            });
+
             services.AddControllersWithViews();
 
             var app = builder.Build();

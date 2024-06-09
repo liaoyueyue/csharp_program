@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using LibraryManagementSystem.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace LibraryManagementSystem.Controllers
 {

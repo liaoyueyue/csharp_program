@@ -1,20 +1,23 @@
 ﻿@model IEnumerable<BookCategory>
 
 @{
-    ViewData["Title"] = "Category List";
+    ViewData["Title"] = "图书分类列表";
 }
 
-<h1>Category List</h1>
+<h1>图书分类列表</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">添加新分类</a>
 </p>
 
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                @Html.DisplayName("编号")
+            </th>
+            <th>
+                @Html.DisplayName("分类名")
             </th>
             <th></th>
         </tr>
@@ -24,11 +27,14 @@
         {
             <tr>
                 <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
                     @Html.DisplayFor(modelItem => item.Name)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">编辑</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">删除</a>
                 </td>
             </tr>
         }

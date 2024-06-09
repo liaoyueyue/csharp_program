@@ -3,9 +3,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using LibraryManagementSystem.Data;
+using Microsoft.AspNetCore.Authorization;
+using System.Threading.Tasks;
+using System.Linq;
 
 namespace LibraryManagementSystem.Controllers
 {
+    [Authorize]
     public class BookController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -17,8 +21,24 @@ namespace LibraryManagementSystem.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var books = _context.Books.Include(b => b.Category);
-            return View(await books.ToListAsync());
+            var books = await _context.Books
+                .Join(_context.BookCategories,
+                      book => book.CategoryId,
+                      category => category.Id,
+                      (book, category) => new BookViewModel
+                      {
+                          Id = book.Id,
+                          Title = book.Title,
+                          Author = book.Author,
+                          Publisher = book.Publisher,
+                          ISBN = book.ISBN,
+                          Price = book.Price,
+                          PublishDate = book.PublishDate,
+                          CategoryId = book.CategoryId,
+                          CategoryName = category.Name
+                      }).ToListAsync();
+
+            return View(books);
         }
 
         public IActionResult Create()
@@ -28,6 +48,7 @@ namespace LibraryManagementSystem.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Book book)
         {
             if (ModelState.IsValid)
@@ -36,6 +57,7 @@ namespace LibraryManagementSystem.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["CategoryId"] = new SelectList(_context.BookCategories, "Id", "Name", book.CategoryId);
             return View(book);
         }
@@ -57,6 +79,7 @@ namespace LibraryManagementSystem.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Book book)
         {
             if (id != book.Id)
@@ -96,8 +119,23 @@ namespace LibraryManagementSystem.Controllers
             }
 
             var book = await _context.Books
-                .Include(b => b.Category)
+                .Join(_context.BookCategories,
+                      book => book.CategoryId,
+                      category => category.Id,
+                      (book, category) => new BookViewModel
+                      {
+                          Id = book.Id,
+                          Title = book.Title,
+                          Author = book.Author,
+                          Publisher = book.Publisher,
+                          ISBN = book.ISBN,
+                          Price = book.Price,
+                          PublishDate = book.PublishDate,
+                          CategoryId = book.CategoryId,
+                          CategoryName = category.Name
+                      })
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (book == null)
             {
                 return NotFound();
@@ -107,6 +145,7 @@ namespace LibraryManagementSystem.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var book = await _context.Books.FindAsync(id);
@@ -120,5 +159,4 @@ namespace LibraryManagementSystem.Controllers
             return _context.Books.Any(e => e.Id == id);
         }
     }
-
 }

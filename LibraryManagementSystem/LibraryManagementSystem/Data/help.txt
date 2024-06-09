@@ -1,0 +1,8 @@
+﻿adotnet tool install --global dotnet-ef
+
+dotnet-ef
+
+// 重置数据库
+dotnet-ef migrations add Init
+
+dotnet-ef database update
