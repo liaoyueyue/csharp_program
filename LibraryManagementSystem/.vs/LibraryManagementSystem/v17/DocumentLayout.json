@@ -152,7 +152,7 @@
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
               "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T12:00:16.11Z",
               "EditorCaption": ""
@@ -167,8 +167,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BookController.cs",
               "ViewState": "AQIAAHkAAAAAAAAAAAAgwJIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T11:59:02.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T11:59:02.043Z"
             },
             {
               "$type": "Document",
@@ -228,8 +227,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T13:48:34.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T13:48:34.089Z"
             },
             {
               "$type": "Document",
@@ -241,8 +239,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T11:58:56.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T11:58:56.702Z"
             },
             {
               "$type": "Document",
@@ -254,8 +251,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T12:04:47.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T12:04:47.823Z"
             },
             {
               "$type": "Document",
@@ -267,8 +263,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Models\\BookCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T12:14:05.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T12:14:05.128Z"
             },
             {
               "$type": "Document",
@@ -280,8 +275,7 @@
               "RelativeToolTip": "LibraryManagementSystem\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:50:36.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T04:50:36.143Z"
             },
             {
               "$type": "Document",

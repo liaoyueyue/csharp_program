@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/bulma/bulma.css" rel="stylesheet" />
+    <script src="~/sweetalert2.all.js"></script>
+    <script src="~/htmx.js"></script>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>
