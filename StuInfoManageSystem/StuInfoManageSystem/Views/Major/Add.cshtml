@@ -1,10 +1,10 @@
 ﻿@{
     ViewBag.Title = "添加专业";
 }
-
 @model MajorViewModel
 
 <form method="post" class="mx-auto" style="width:320px;">
+    <div asp-validation-summary="All" class="has-text-danger mb-4"></div>
     <div class="field">
         <label asp-for="Name" class="label"></label>
         <div class="control">

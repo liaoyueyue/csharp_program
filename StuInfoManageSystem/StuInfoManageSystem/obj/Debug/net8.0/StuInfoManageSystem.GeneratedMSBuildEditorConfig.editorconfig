@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MyUniversity\0_ProgrammingLearning\csharp_program\StuInfoManageSystem\StuInfoManageSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/MyUniversity/0_ProgrammingLearning/csharp_program/StuInfoManageSystem/StuInfoManageSystem/Views/Grade/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyUniversity/0_ProgrammingLearning/csharp_program/StuInfoManageSystem/StuInfoManageSystem/Views/Grade/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyUniversity/0_ProgrammingLearning/csharp_program/StuInfoManageSystem/StuInfoManageSystem/Views/Grade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MyUniversity/0_ProgrammingLearning/csharp_program/StuInfoManageSystem/StuInfoManageSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

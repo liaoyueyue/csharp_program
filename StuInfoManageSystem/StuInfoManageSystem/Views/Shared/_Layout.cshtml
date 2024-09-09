@@ -9,7 +9,20 @@
     <script src="~/htmx.js"></script>
 </head>
 <body>
-    <div>
+    <nav class="navbar is-info p-2">
+        <div class="navbar-brand">
+            <a asp-controller="Home" asp-action="Index" class="navbar-item"><p class="title">学生信息管理系统</p></a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a asp-controller="Major" asp-action="Index" class="navbar-item">专业管理</a>
+                <a asp-controller="Grade" asp-action="Index" class="navbar-item">年级管理</a>
+                <a asp-controller="Class" asp-action="Index" class="navbar-item">班级管理</a>
+                <a asp-controller="Student" asp-action="Index" class="navbar-item">学生管理</a>
+            </div>
+        </div>
+    </nav>
+    <div class="p-6">
         @RenderBody()
     </div>
     @await RenderSectionAsync("Scripts", false)

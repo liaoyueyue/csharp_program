@@ -20,6 +20,7 @@ namespace StuInfoManageSystem
             services.AddScoped<StudentRepo>();
 
             services.AddScoped<MajorService>();
+            services.AddScoped<GradeService>();
 
             var app = builder.Build();
             app.UseStatusCodePagesWithReExecute("/error/{0}");

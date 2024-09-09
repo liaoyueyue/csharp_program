@@ -1,16 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using StuInfoManageSystem.Models;
-using StuInfoManageSystem.Repositories;
 using StuInfoManageSystem.Services;
 using StuInfoManageSystem.ViewModels;
 
 namespace StuInfoManageSystem.Controllers
 {
-    public class MajorController(MajorService majorService) : Controller
+    public class GradeController(GradeService gradeService) : Controller
     {
         public IActionResult Index()
         {
-            return View(majorService.GetList());
+            return View(gradeService.GetList());
         }
 
         public IActionResult Add()
@@ -19,11 +17,11 @@ namespace StuInfoManageSystem.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add(MajorViewModel model)
+        public IActionResult Add(GradeViewModel model)
         {
             if (ModelState.IsValid)
             {
-                majorService.Insert(model);
+                gradeService.Insert(model);
                 return RedirectToAction("Index");
             }
             return View(model);
@@ -31,11 +29,10 @@ namespace StuInfoManageSystem.Controllers
 
         public IActionResult Edit(Guid id)
         {
-
-            MajorViewModel model;
+            GradeViewModel model;
             try
             {
-                model = majorService.Get(id);
+                model = gradeService.Get(id);
             }
             catch (NullReferenceException)
             {
@@ -45,15 +42,14 @@ namespace StuInfoManageSystem.Controllers
         }
 
         [HttpPost]
-        public IActionResult Edit(MajorViewModel model)
+        public IActionResult Edit(GradeViewModel model)
         {
             if (ModelState.IsValid)
             {
-                majorService.Update(model);
+                gradeService.Update(model);
                 return RedirectToAction("Index");
             }
             return View(model);
         }
-
     }
 }
