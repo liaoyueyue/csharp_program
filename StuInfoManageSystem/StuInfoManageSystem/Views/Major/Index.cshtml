@@ -1,9 +1,25 @@
 ﻿@{
     ViewBag.Title = "专业管理";
 }
+@model List<MajorViewModel>
 
-专业管理页面
-
-@section Scripts {
-
-}
+<a asp-action="Add" class="button is-primary mb-4">添加专业</a>
+<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+    <thead>
+        <tr>
+            <th>专业名称</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (MajorViewModel major in Model)
+        {
+            <tr>
+                <td>@major.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@major.Id" class="button is-warning">编辑</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

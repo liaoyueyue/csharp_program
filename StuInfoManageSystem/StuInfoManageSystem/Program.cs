@@ -1,5 +1,6 @@
 using StuInfoManageSystem.Data;
 using StuInfoManageSystem.Repositories;
+using StuInfoManageSystem.Services;
 
 namespace StuInfoManageSystem
 {
@@ -18,7 +19,10 @@ namespace StuInfoManageSystem
             services.AddScoped<ClassRepo>();
             services.AddScoped<StudentRepo>();
 
+            services.AddScoped<MajorService>();
+
             var app = builder.Build();
+            app.UseStatusCodePagesWithReExecute("/error/{0}");
             app.UseStaticFiles();
             app.MapDefaultControllerRoute();
 

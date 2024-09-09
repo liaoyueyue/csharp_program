@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace StuInfoManageSystem.ViewModel
+namespace StuInfoManageSystem.ViewModels
 {
     public class MajorViewModel
     {
