@@ -55,5 +55,19 @@ namespace StuInfoManageSystem.Services
             };
             majorRepo.Update(major);
         }
+
+        public void Delete(Guid id)
+        {
+            Major? major = majorRepo.GetWithClasses(id);
+            if (major == null)
+            {
+                throw new NullReferenceException("未找到该专业，无法删除");
+            }
+            if (major.Classes.Any())
+            {
+                throw new InvalidOperationException("年级中存在班级，无法删除");
+            }
+            majorRepo.Delete(major);
+        }
     }
 }

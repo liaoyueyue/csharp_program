@@ -104,5 +104,15 @@ namespace StuInfoManageSystem.Services
             studentRepo.Update(student);
         }
 
+        public void Delete(Guid id)
+        {
+            Student? student = studentRepo.Get(id);
+            if (student == null)
+            {
+                throw new NullReferenceException("未找到该学生，无法删除");
+            }
+            studentRepo.Delete(student);
+        }
+
     }
 }

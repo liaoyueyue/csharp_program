@@ -55,5 +55,19 @@ namespace StuInfoManageSystem.Services
             };
             gradeRepo.Update(grade);
         }
+
+        public void Delete(Guid id)
+        {
+            Grade? grade = gradeRepo.GetWithClasses(id);
+            if (grade == null)
+            {
+                throw new NullReferenceException("未找到该年级，无法删除");
+            }
+            if (grade.Classes.Any())
+            {
+                throw new InvalidOperationException("年级中存在班级，无法删除");
+            }
+            gradeRepo.Delete(grade);
+        }
     }
 }

@@ -3,32 +3,124 @@
   "WorkspaceRootPath": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\majorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\majorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\classviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\major\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\major\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\marjorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,52 +131,56 @@
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\graderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\class\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\class\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\majorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\majorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\class\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\class\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\major\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\major\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\major\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,40 +191,12 @@
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\major\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\grade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\grade\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\grade\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\gradeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,348 +230,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T01:21:42.084Z",
+              "WhenOpened": "2024-09-04T01:15:34.966Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T01:19:31.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GradeService.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\GradeService.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\GradeService.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\GradeService.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Services\\GradeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T00:39:47.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MajorService.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\MajorService.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Services\\MajorService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:34:56.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentRepo.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\StudentRepo.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\StudentRepo.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\StudentRepo.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\StudentRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:59:23.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\StudentService.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\StudentService.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Services\\StudentService.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAowGkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T01:02:10.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFUAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T01:02:53.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MarjoRepo.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:53:13.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GradeRepo.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\GradeRepo.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\GradeRepo.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\GradeRepo.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\GradeRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:58:54.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClassRepo.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\ClassRepo.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\ClassRepo.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\ClassRepo.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\ClassRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:59:10.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Add.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Add.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Add.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Add.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAUwFAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T01:13:24.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MajorController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:01:15.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentViewModel.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T01:01:18.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClassSelectPartial.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T01:08:06.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T01:02:09.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Program.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Program.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Program.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAswBcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:53:51.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\BaseRepository.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:53:14.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MajorViewModel.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:13:35.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T00:53:00.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T02:10:26.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Add.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Add.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Add.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T01:02:03.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T00:44:16.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T00:51:10.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Index.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Index.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Index.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T01:10:17.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GradeController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\GradeController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\GradeController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\GradeController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\GradeController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwCwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T00:41:17.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GradeViewModel.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T00:42:19.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T02:15:26.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBwAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-04T01:02:22.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Program.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Program.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwDMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:53:51.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\UserRole.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Identity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:26:37.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T01:43:56.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T01:35:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewStart.cshtml",
@@ -515,19 +315,499 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 7,
               "Title": "Error404.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
               "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
               "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-04T02:15:56.061Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvygAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:35:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:02:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\ClassController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:39:05.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:15:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\GradeController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:41:17.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MajorController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:01:15.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:34:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IdentityDataSeeder.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:28:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\StudentRepo.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\StudentRepo.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\StudentRepo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAASwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:59:23.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\SearchService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\SearchService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\SearchService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:15:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\MajorService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\MajorService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:34:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T01:02:09.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\StudentService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\StudentService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAEwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:02:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassRepo.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\ClassRepo.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\ClassRepo.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\ClassRepo.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\ClassRepo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:59:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:53:14.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:11:14.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:13:03.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:01:18.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MajorViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:13:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GradeViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:42:19.127Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "MarjoRepo.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:53:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GradeRepo.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\GradeRepo.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\GradeRepo.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\GradeRepo.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Repositories\\GradeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:58:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClassViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:45:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T00:51:10.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Index.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Index.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T01:10:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\GradeService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\GradeService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\GradeService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwD8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:39:47.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Index.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Index.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Class\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T00:51:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T01:19:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\ClassService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\ClassService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\ClassService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\ClassService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:34:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T01:21:42.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Add.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T01:13:24.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T00:57:03.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Add.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Add.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Add.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Class\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T00:48:27.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T00:53:00.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\main.js",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T00:29:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "sweetalert2.all.js",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T00:30:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClassSelectPartial.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T01:08:06.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T02:10:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Add.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Add.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Add.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Major\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T01:02:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T00:44:16.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "Major.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Models\\Major.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Models\\Major.cs",
@@ -539,19 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T01:15:34.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Models\\Student.cs",
@@ -563,7 +831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Data\\AppDbContext.cs",

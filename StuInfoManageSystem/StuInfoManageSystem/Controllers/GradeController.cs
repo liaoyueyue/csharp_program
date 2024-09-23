@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using StuInfoManageSystem.Identity;
 using StuInfoManageSystem.Services;
 using StuInfoManageSystem.ViewModels;
 
 namespace StuInfoManageSystem.Controllers
 {
+    [Authorize(Roles = nameof(UserRole.Admin))]
     public class GradeController(GradeService gradeService) : Controller
     {
         public IActionResult Index()
@@ -50,6 +53,19 @@ namespace StuInfoManageSystem.Controllers
                 return RedirectToAction("Index");
             }
             return View(model);
+        }
+
+        public IActionResult Delete(Guid id)
+        {
+            try
+            {
+                gradeService.Delete(id);
+                return Ok("删除成功");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

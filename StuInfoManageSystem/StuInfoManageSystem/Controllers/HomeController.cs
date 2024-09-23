@@ -1,12 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using StuInfoManageSystem.Identity;
+using StuInfoManageSystem.Services;
+using StuInfoManageSystem.ViewModels;
 
 namespace StuInfoManageSystem.Controllers
 {
-    public class HomeController : Controller
+    [Authorize(Roles = $"{nameof(UserRole.Admin)},{nameof(UserRole.Teacher)}")]
+    public class HomeController(SearchService searchService) : Controller
     {
-        public IActionResult Index()
+        public IActionResult Index(SearchViewModel model)
         {
-            return View();
+            return View(searchService.GetList(model));
         }
 
         [Route("error/404")]
