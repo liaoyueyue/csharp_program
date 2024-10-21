@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\htmx.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\htmx.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,16 +47,28 @@
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\shared\\error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,18 +87,6 @@
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\controllers\\majorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\identity\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -77,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\services\\majorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,14 +187,6 @@
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\grade\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\wwwroot\\sweetalert2.all.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|d:\\myuniversity\\0_programminglearning\\csharp_program\\stuinfomanagesystem\\stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{413BA4CA-C6D1-4A17-9C2A-6B59005151BC}|StuInfoManageSystem\\StuInfoManageSystem.csproj|solutionrelative:stuinfomanagesystem\\views\\student\\classselectpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -214,7 +222,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,7 +238,201 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\favicon.ico",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\favicon.ico - Icon [64x64, 32 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-21T01:20:57.269Z",
+              "EditorCaption": " - Icon [64x64, 32 \u4F4D, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T01:02:22.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\main.js",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T00:29:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "htmx.js",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\htmx.js",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\htmx.js",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\htmx.js",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\htmx.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-21T01:00:43.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T01:43:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MajorController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\MajorController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:01:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MajorService.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\MajorService.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Services\\MajorService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgvzoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:34:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T01:35:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error404.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T02:15:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StuInfoManageSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T00:34:10.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sweetalert2.all.js",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-23T00:30:55.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityDataSeeder.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:28:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\UserRole.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Identity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:26:37.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:34:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:35:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewImports.cshtml",
@@ -243,19 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T01:02:22.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Program.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Program.cs",
@@ -267,79 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\UserRole.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\UserRole.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Identity\\UserRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T01:26:37.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\AccessDenied.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T01:43:56.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T01:35:51.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T00:34:10.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Error404.cshtml",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
-              "RelativeToolTip": "StuInfoManageSystem\\Views\\Shared\\Error404.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-04T02:15:56.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADgvygAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T01:35:10.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\StudentController.cs",
@@ -351,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ClassController.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\ClassController.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\ClassController.cs",
@@ -363,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\HomeController.cs",
@@ -375,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "GradeController.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\GradeController.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\GradeController.cs",
@@ -387,43 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MajorController.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Controllers\\MajorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:01:15.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T01:34:46.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IdentityDataSeeder.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Identity\\IdentityDataSeeder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T01:28:35.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\StudentRepo.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\StudentRepo.cs",
@@ -435,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "SearchService.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\SearchService.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\SearchService.cs",
@@ -447,19 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MajorService.cs",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\MajorService.cs",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\MajorService.cs",
-              "RelativeToolTip": "StuInfoManageSystem\\Services\\MajorService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwEYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:34:56.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Home\\Index.cshtml",
@@ -471,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\StudentService.cs",
@@ -483,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ClassRepo.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\ClassRepo.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\ClassRepo.cs",
@@ -495,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\BaseRepository.cs",
@@ -507,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "SearchViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\SearchViewModel.cs",
@@ -519,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ResultViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\ResultViewModel.cs",
@@ -531,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "StudentViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\StudentViewModel.cs",
@@ -543,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "MajorViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\MajorViewModel.cs",
@@ -555,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "GradeViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\GradeViewModel.cs",
@@ -567,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "MarjoRepo.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\MarjoRepo.cs",
@@ -579,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "GradeRepo.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Repositories\\GradeRepo.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Repositories\\GradeRepo.cs",
@@ -591,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "ClassViewModel.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\ViewModels\\ClassViewModel.cs",
@@ -603,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Index.cshtml",
@@ -615,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Index.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Index.cshtml",
@@ -627,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "GradeService.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\GradeService.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\GradeService.cs",
@@ -639,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Index.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Index.cshtml",
@@ -651,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Index.cshtml",
@@ -663,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "ClassService.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Services\\ClassService.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Services\\ClassService.cs",
@@ -675,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Edit.cshtml",
@@ -687,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\Add.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\Add.cshtml",
@@ -699,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Edit.cshtml",
@@ -711,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Class\\Add.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Class\\Add.cshtml",
@@ -723,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Edit.cshtml",
@@ -735,31 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "main.js",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\main.js",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
-              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\main.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-23T00:29:14.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "sweetalert2.all.js",
-              "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
-              "RelativeDocumentMoniker": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
-              "ToolTip": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
-              "RelativeToolTip": "StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-23T00:30:55.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ClassSelectPartial.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Student\\ClassSelectPartial.cshtml",
@@ -771,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Edit.cshtml",
@@ -783,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Major\\Add.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Major\\Add.cshtml",
@@ -795,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Views\\Grade\\Add.cshtml",
@@ -807,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Major.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Models\\Major.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Models\\Major.cs",
@@ -819,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Models\\Student.cs",
@@ -831,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StuInfoManageSystem\\Data\\AppDbContext.cs",

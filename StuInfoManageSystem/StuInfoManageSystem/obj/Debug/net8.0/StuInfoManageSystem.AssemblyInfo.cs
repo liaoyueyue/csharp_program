@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StuInfoManageSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ebd1bfb6f2235f78c48e835ea254c936778c06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb0ad1d3fb2a8db731f5db0d09200378e1f2ed2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StuInfoManageSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StuInfoManageSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

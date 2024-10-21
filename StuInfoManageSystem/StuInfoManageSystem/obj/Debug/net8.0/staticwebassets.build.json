@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vSTbeyDLbcmueGRifjfKWdXu8QzzoX1J8hUOSfdEZJI=",
+  "Hash": "YNvM7jlK9PfGIL3GIHb4al1jWKTdjiK5DhB8QZhL9cY=",
   "Source": "StuInfoManageSystem",
   "BasePath": "_content/StuInfoManageSystem",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "wwwroot\\bulma\\bulma.css.map"
     },
     {
+      "Identity": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\favicon.ico",
+      "SourceId": "StuInfoManageSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\",
+      "BasePath": "_content/StuInfoManageSystem",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
       "Identity": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\htmx.js",
       "SourceId": "StuInfoManageSystem",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\htmx.js"
+    },
+    {
+      "Identity": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+      "SourceId": "StuInfoManageSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\",
+      "BasePath": "_content/StuInfoManageSystem",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
     },
     {
       "Identity": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",

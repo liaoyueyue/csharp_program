@@ -9,8 +9,16 @@
       "PackagePath": "staticwebassets\\bulma\\bulma.css.map"
     },
     {
+      "Id": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
       "Id": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\htmx.js",
       "PackagePath": "staticwebassets\\htmx.js"
+    },
+    {
+      "Id": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
     },
     {
       "Id": "D:\\MyUniversity\\0_ProgrammingLearning\\csharp_program\\StuInfoManageSystem\\StuInfoManageSystem\\wwwroot\\sweetalert2.all.js",

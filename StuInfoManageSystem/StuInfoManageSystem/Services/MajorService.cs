@@ -65,7 +65,7 @@ namespace StuInfoManageSystem.Services
             }
             if (major.Classes.Any())
             {
-                throw new InvalidOperationException("年级中存在班级，无法删除");
+                throw new InvalidOperationException("专业中存在班级，无法删除");
             }
             majorRepo.Delete(major);
         }
